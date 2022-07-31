@@ -1,21 +1,22 @@
-### Hi there 👋
-
-
-
-![A beautiful image](https://i.pinimg.com/originals/c3/fe/f6/c3fef6880d02a3b6793fe1556a7fd557.png | width=100)
 <img src="https://i.pinimg.com/originals/c3/fe/f6/c3fef6880d02a3b6793fe1556a7fd557.png" width="100%">
 
-<!--
-**AlessandraMarusi/AlessandraMarusi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hi! I'm Alessandra Marusi and I'm a Junior Web Developer. I've been into coding since I was a teen, but then life drove us apart. During quarantine we met again and it was just like the old times. Since then I've been coding non-stop, experimenting and always trying to bring something new to my code.**
 
-Here are some ideas to get you started:
+**My Skills:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML, CSS, SASS
+- JavaScript
+- PHP
+- MySQL
+- Vue.Js, Bootstrap, Laravel
+
+**Some of my basic projects**
+
+- [PlayStation Homepage (with cats)](https://alessandramarusi.github.io/htmlcss-playstation/#)
+
+- [Spotify Web (no cats)](https://alessandramarusi.github.io/html-css-spotifyweb/)
+
+- More to come
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alessandramarusi)](https://github.com/anuraghazra/github-readme-stats)
