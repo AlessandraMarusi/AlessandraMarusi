@@ -2,7 +2,7 @@
 
 
 
-![A beautiful image](https://preview.redd.it/x219hh4w95881.png?auto=webp&s=611a89722f2e652ba12d81e0c8a8665abeef2348)
+![A beautiful image](https://i.pinimg.com/originals/c3/fe/f6/c3fef6880d02a3b6793fe1556a7fd557.png)
 
 <!--
 **AlessandraMarusi/AlessandraMarusi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
