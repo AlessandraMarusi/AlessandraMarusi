@@ -12,9 +12,11 @@
 
 **Some of my basic projects**
 
-- [PlayStation Homepage (with cats)](https://alessandramarusi.github.io/htmlcss-playstation/#)
+- **[EduPrime](https://alessandramarusi.github.io/proj-html-vuejs/)** made with Vue.Js 
 
-- [Spotify Web (no cats)](https://alessandramarusi.github.io/html-css-spotifyweb/)
+- [PlayStation Homepage](https://alessandramarusi.github.io/htmlcss-playstation/#)
+
+- [Spotify Web](https://alessandramarusi.github.io/html-css-spotifyweb/)
 
 - More to come
 
