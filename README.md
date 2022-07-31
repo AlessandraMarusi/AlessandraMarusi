@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+
+![A beautiful image](https://preview.redd.it/x219hh4w95881.png?auto=webp&s=611a89722f2e652ba12d81e0c8a8665abeef2348)
+
 <!--
 **AlessandraMarusi/AlessandraMarusi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
