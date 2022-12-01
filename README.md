@@ -20,6 +20,8 @@
 
 - **[Spotify Web](https://alessandramarusi.github.io/html-css-spotifyweb/)** made with basic HTML, CSS and JavaScript
 
+- **[Memory Game](https://alessandramarusi.github.io/memory-game-js/)** made with basic HTML, CSS and JavaScript
+
 - More to come
 
 
